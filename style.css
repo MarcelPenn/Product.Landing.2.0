@@ -1,0 +1,60 @@
+img {
+  height: auto;
+  width: 20%;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+
+
+
+.container {
+  display: grid;
+  grid-template-columns: auto;
+  margin: 5%;
+  
+  grid-row-gap: 20px;
+  justify-items: center;
+  
+
+}
+
+.one {
+  background-color: white;;
+  width: 30%;
+  padding: 2%;
+  
+}
+
+.two {
+  background-color: white;;
+  width: 30%;
+  padding: 2%;
+}
+
+.three {
+  background-color: white;
+  width: 30%;
+  padding: 2%;
+}
+
+.video-center {
+  margin-left: 30%;
+  
+}
+
+.form-center {
+  margin-left: 40%;
+  margin-top: 2%;
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  background-color: gray;
+  margin-bottom: 0px;
+  margin-top: 2%;
+}
+
